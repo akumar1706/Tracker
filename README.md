@@ -1,2 +1,2 @@
 # Tracker
-Its a application that traps the accurate Geolocation of any person that visits a particular link and sends it to the MySQL database for the admin to view the coordinates of the victims.
+Webapp based on PHP and MySQL database that traps the Geolocation of the person who visits it and stores the coordinate in the Database for admin to view details of all the victims.
